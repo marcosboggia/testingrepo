@@ -1,5 +1,5 @@
 public class Message {
-  int x = 3;
+  int x = 4;
   public static void message(String[] args) {
     Message myObj = new Message();
     System.out.println(myObj);
