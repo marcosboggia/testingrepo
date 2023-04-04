@@ -1,0 +1,14 @@
+{
+   "people":[
+      {
+         "name":"John",
+         "age":30,
+         "car":null
+      },
+      {
+         "name":"Peter",
+         "age":35,
+         "car":"Volvo"
+      }
+   ]
+}
