@@ -1,2 +1,2 @@
-def mmmm():
+def mmmmmm():
   return 1
